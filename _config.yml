@@ -1,0 +1,14 @@
+layout_spectrum: 0.2541550290770829
+typography_spectrum: 0.4102211878634989
+color:
+  brandStrength: 0.2875770889222622
+  lightness: 0.9483736378606409
+  saturation: 0.08667529420927167
+  rhythmicContrast: 0.9196081589907408
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Practivity
